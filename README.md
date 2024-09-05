@@ -1,5 +1,5 @@
 # Courses Express 
-A simple courses project Node.js [Leaning purpose ONLY]
+A simple courses project Node.js [Learning purpose ONLY]
 
 ## Installation
 After downloading code use command npm install to install all packages need for run app
